@@ -1,0 +1,385 @@
+id	name
+0	A 3-dehydroquinate dehydratase. enzyme.
+1	A DNA ligase (ATP). enzyme. This enzyme is also known as DNA joinase. DNA repair enzyme. polydeoxyribonucleotide synthase (ATP). polynucleotide ligase (ATP). sealase.
+2	A threonine synthase. enzyme.
+3	A RNA-directed RNA polymerase. enzyme. This enzyme is also known as RNA nucleotidyltransferase (RNA-directed).
+4	A inositol-phosphate phosphatase. enzyme. This enzyme is also known as inositol-1(or 4)-monophosphatase. inositol 1-phosphatase. inositol monophosphate phosphatase. inositol phosphatase. L-myo-inositol-1-phosphate phosphatase. myo-inositol-1(or 4)-monophosphatase. myo-inositol-1(or 4)-phosphate phosphohydrolase. myo-inositol 1-phosphatase. myo-inositol-1-phosphatase. myo-inositol monophosphatase.
+5	A type II site-specific deoxyribonuclease. enzyme. This enzyme is also known as type II restriction enzyme.
+6	A beta-galactosidase. enzyme. This enzyme is also known as exo-(1->4)-beta-D-galactanase. lactase.
+7	A phosphoribosylformylglycinamidine synthase. enzyme. This enzyme is also known as FGAM synthase. FGAM synthetase. FGAR amidotransferase. FGARAT. formylglycinamide ribotide amidotransferase. phosphoribosylformylglycinamidine synthetase.
+8	A tryptophan synthase. enzyme. This enzyme is also known as indoleglycerol phosphate aldolase. L-tryptophan synthetase. tryptophan desmolase. tryptophan synthetase.
+9	A methionyl aminopeptidase. enzyme. This enzyme is also known as methionine aminopeptidase. peptidase M.
+10	A 5-(carboxyamino)imidazole ribonucleotide synthase. enzyme. This enzyme is also known as N(5)-CAIR synthetase. N(5)-carboxyaminoimidazole ribonucleotide synthetase.
+11	A Transferred entry: 3.1.21.10. enzyme.
+12	A aralkylamine N-acetyltransferase. enzyme. This enzyme is also known as AANAT. arylalkylamine N-acetyltransferase. melatonin rhythm enzyme. serotonin acetylase. serotonin acetyltransferase. serotonin N-acetyltransferase.
+13	A pantetheine-phosphate adenylyltransferase. enzyme. This enzyme is also known as 3'-dephospho-CoA pyrophosphorylase. dephospho-CoA diphosphorylase. dephospho-CoA pyrophosphorylase. dephospho-coenzyme A pyrophosphorylase. phosphopantetheine adenylyltransferase. PPAT.
+14	A cellulase. enzyme. This enzyme is also known as avicelase. beta-1,4-endoglucan hydrolase. beta-1,4-glucanase. carboxymethyl cellulase. celludextrinase. endo-1,4-beta-D-glucanase. endo-1,4-beta-D-glucanohydrolase. endo-1,4-beta-glucanase. endoglucanase.
+15	A glucokinase. enzyme. This enzyme is also known as glucose kinase.
+16	A palmitoyl-CoA hydrolase. enzyme. This enzyme is also known as long-chain fatty-acyl-CoA hydrolase.
+17	A H(+)-transporting two-sector ATPase. enzyme. This enzyme is also known as ATP synthase. chloroplast ATPase. F0F1-ATPase. F1-ATPase. FoF1-ATPase. H(+)-transporting ATPase. H(+)-transporting ATP synthase. mitochondrial ATPase.
+18	A cGMP-dependent protein kinase. enzyme. This enzyme is also known as 3':5'-cyclic GMP-dependent protein kinase. cGMP-dependent protein kinase Ibeta. guanosine 3':5'-cyclic monophosphate-dependent protein kinase. PKG. PKG 1alpha. PKG 1beta. PKG II.
+19	A glucan 1,4-alpha-glucosidase. enzyme. This enzyme is also known as 4-alpha-D-glucan glucohydrolase. amyloglucosidase. exo-1,4-alpha-glucosidase. gamma-amylase. glucoamylase. lysosomal alpha-glucosidase.
+20	A heme oxygenase (biliverdin-producing). enzyme. This enzyme is also known as heme oxidase. heme oxygenase. heme oxygenase (decyclizing).
+21	A diaminopimelate decarboxylase. enzyme. This enzyme is also known as DAP decarboxylase. meso-2,6-diaminoheptanedioate carboxy-lyase.
+22	A molybdopterin synthase. enzyme. This enzyme is also known as MPT synthase.
+23	A beta-lactamase. enzyme. This enzyme is also known as cephalosporinase. penicillinase.
+24	A guanylate cyclase. enzyme. This enzyme is also known as guanyl cyclase. guanylyl cyclase.
+25	A threonine--tRNA ligase. enzyme. This enzyme is also known as threonine translase. threonyl-tRNA synthetase.
+26	A phenylalanine 4-monooxygenase. enzyme. This enzyme is also known as PAH. phenylalaninase. phenylalanine 4-hydroxylase. phenylalanine hydroxylase.
+27	A tRNA (adenine(58)-N(1))-methyltransferase. enzyme. This enzyme is also known as tRNA (m(1)A(58)) methyltransferase. tRNA m(1)A(58) methyltransferase.
+28	A 2-C-methyl-D-erythritol 4-phosphate cytidylyltransferase. enzyme. This enzyme is also known as 4-diphosphocytidyl-2-C-methyl-D-erythritol synthase. MCT. MEP cytidylyltransferase.
+29	A endopeptidase Clp. enzyme. This enzyme is also known as caseinolytic protease. endopeptidase Ti. protease Ti.
+30	A 3-oxoacyl-[acyl-carrier-protein] reductase. enzyme.
+31	A nitrile hydratase. enzyme. This enzyme is also known as nitrilase. nitrile hydro-lyase.
+32	A cysteine desulfurase. enzyme. This enzyme is also known as cysteine desulfurylase.
+33	A microtubule-severing ATPase. enzyme. This enzyme is also known as katanin.
+34	A pectate lyase. enzyme. This enzyme is also known as alpha-1,4-D-endopolygalacturonic acid lyase. endo-alpha-1,4-polygalacturonic acid lyase. endogalacturonate transeliminase. endopectin methyltranseliminase. pectate transeliminase. pectic acid lyase. pectic acid transeliminase. pectic lyase. pectin trans-eliminase. PGA lyase. polygalacturonate lyase. polygalacturonic acid lyase. polygalacturonic acid trans-eliminase. polygalacturonic transeliminase. PPase-N.
+35	A 1,4-alpha-glucan branching enzyme. enzyme. This enzyme is also known as amylo-(1,4->1,6)-transglycosylase. amylo-(1,4 to 1,6)transglucosidase. branching enzyme. glycogen branching enzyme.
+36	A caspase-7. enzyme. This enzyme is also known as apoptotic protease Mch-3. CASP-7. CMH-1. ICE-LAP3. ICE-like apoptotic protease 3. Mch3.
+37	A acylphosphatase. enzyme. This enzyme is also known as acylphosphate phosphohydrolase.
+38	A adenylosuccinate synthase. enzyme. This enzyme is also known as adenylosuccinate synthetase. IMP--aspartate ligase. succinoadenylic kinosynthetase.
+39	A arginine--tRNA ligase. enzyme. This enzyme is also known as arginine translase. arginyl-tRNA synthetase.
+40	A hydrogenase (acceptor). enzyme. This enzyme is also known as H2 producing hydrogenase. hydrogenlyase. hydrogen-lyase. uptake hydrogenase.
+41	A DNA-(apurinic or apyrimidinic site) lyase. enzyme. This enzyme is also known as AP endonuclease class I. AP lyase. deoxyribonuclease (apurinic or apyrimidinic). E.coli endonuclease III. endodeoxyribonuclease (apurinic or apyrimidinic). Micrococcus luteus UV endonuclease. phage-T4 UV endonuclease.
+42	A alpha-amylase. enzyme. This enzyme is also known as glycogenase.
+43	A proline--tRNA ligase. enzyme. This enzyme is also known as proline translase. prolyl-tRNA synthetase.
+44	A F-actin monooxygenase. enzyme.
+45	A xylan 1,4-beta-xylosidase. enzyme. This enzyme is also known as 1,4-beta-D-xylan xylohydrolase. beta-xylosidase. exo-1,4-beta-xylosidase. xylobiase.
+46	A S-methyl-5-thioribose-1-phosphate isomerase. enzyme. This enzyme is also known as 1-phospho-5'-S-methylthioribose isomerase. 1-PMTR isomerase. 5-methylthio-5-deoxy-D-ribose-1-phosphate ketol-isomerase. 5-methylthioribose-1-phosphate isomerase. methylthioribose 1-phosphate isomerase. MTR-1-P isomerase. S-methyl-5-thio-5-deoxy-D-ribose-1-phosphate aldose-ketose-isomerase. S-methyl-5-thio-5-deoxy-D-ribose-1-phosphate ketol-isomerase. S-methyl-5-thio-D-ribose-1-phosphate aldose-ketose-isomerase.
+47	A uracil-DNA glycosylase. enzyme. This enzyme is also known as uracil DNA glycohydrolase. uracil-DNA N-glycosylase.
+48	A DNA-directed RNA polymerase. enzyme. This enzyme is also known as DNA-dependent RNA polymerase. RNA nucleotidyltransferase (DNA-directed). RNA polymerase I. RNA polymerase II. RNA polymerase III.
+49	A nitrogenase. enzyme.
+50	A phenylalanine--tRNA ligase. enzyme. This enzyme is also known as phenylalanine translase. phenylalanyl-tRNA synthetase.
+51	A peptidase Do. enzyme. This enzyme is also known as high temperature requirement protease A. HrtA heat shock protein. protease Do.
+52	A togavirin. enzyme. This enzyme is also known as NsP2 proteinase. Sindbis virus protease.
+53	A peroxidase. enzyme. This enzyme is also known as lactoperoxidase.
+54	A dihydroorotase. enzyme. This enzyme is also known as carbamoylaspartic dehydrase. DHOase.
+55	A pancreatic ribonuclease. enzyme. This enzyme is also known as pancreatic RNase. ribonuclease I. RNase. RNase A. RNase I.
+56	A homoserine kinase. enzyme.
+57	A NADH:ubiquinone reductase (Na(+)-transporting). enzyme. This enzyme is also known as Na(+)-NQR. Na(+)-translocating NADH-quinone reductase.
+58	A UMP kinase. enzyme. This enzyme is also known as UMPK. UMP-kinase. uridine monophosphate kinase. uridylate kinase.
+59	A pullulanase. enzyme. This enzyme is also known as alpha-dextrin endo-1,6-alpha-glucosidase. amylopectin 6-glucanohydrolase. debranching enzyme. limit dextrinase. pullulan 6-glucanohydrolase.
+60	A 3-phosphoshikimate 1-carboxyvinyltransferase. enzyme. This enzyme is also known as 3-enol-pyruvoylshikimate-5-phosphate synthase. 5-enolpyruvylshikimate-3-phosphate synthase. EPSP synthase.
+61	A GTP cyclohydrolase I. enzyme.
+62	A glutathione transferase. enzyme. This enzyme is also known as glutathione S-alkyltransferase. glutathione S-aralkyltransferase. glutathione S-aryltransferase. S-(hydroxyalkyl)glutathione lyase.
+63	A pantothenate kinase. enzyme. This enzyme is also known as ATP:pantothenate 4'-phosphotransferase. D-pantothenate kinase. pantothenate kinase (phosphorylating). pantothenic acid kinase.
+64	A guanylate kinase. enzyme. This enzyme is also known as deoxyguanylate kinase. GMP kinase. guanosine monophosphate kinase.
+65	A orotidine-5'-phosphate decarboxylase. enzyme. This enzyme is also known as OMPdcase. OMP decarboxylase. orotidine-5'-phosphate carboxy-lyase. orotidylic decarboxylase. UMP synthase. uridine 5'-monophosphate synthase.
+66	A UDP-N-acetylmuramate dehydrogenase. enzyme. This enzyme is also known as UDP-GlcNAc-enoylpyruvate reductase. UDP-N-acetylenolpyruvoylglucosamine reductase. UDP-N-acetylglucosamine-enoylpyruvate reductase. uridine diphosphoacetylpyruvoylglucosamine reductase. uridine diphospho-N-acetylglucosamine-enolpyruvate reductase.
+67	A orotate phosphoribosyltransferase. enzyme. This enzyme is also known as OPRT. orotidine-5'-phosphate diphosphorylase. orotidine-5'-phosphate pyrophosphorylase. orotidylic acid phosphorylase.
+68	A alcohol dehydrogenase. enzyme. This enzyme is also known as aldehyde reductase.
+69	A diamine N-acetyltransferase. enzyme. This enzyme is also known as acetyl-coenzyme A-1,4-diaminobutane N-acetyltransferase. diamine acetyltransferase. putrescine (diamine)-acetylating enzyme. putrescine acetylase. putrescine acetyltransferase. putrescine N-acetyltransferase. spermidine acetyltransferase. spermidine N(1)-acetyltransferase.
+70	A cysteine synthase. enzyme. This enzyme is also known as acetylserine sulfhydrylase. cysteine synthetase. O(3)-acetyl-L-serine acetate-lyase (adding hydrogen-sulfide). O-acetyl-L-serine sulfhydrylase. O-acetyl-L-serine sulfohydrolase. O-acetylserine (thiol)-lyase. O-acetylserine (thiol)-lyase A. O-acetylserine sulfhydrylase. OAS sulfhydrylase.
+71	A nicotinate-nucleotide diphosphorylase (carboxylating). enzyme. This enzyme is also known as nicotinate-nucleotide pyrophosphorylase (carboxylating). quinolinate phosphoribosyltransferase (decarboxylating).
+72	A ribonuclease T2. enzyme. This enzyme is also known as ribonuclease II.
+73	A receptor protein serine/threonine kinase. enzyme. This enzyme is also known as activin receptor kinase. receptor serine/threonine protein kinase. receptor type II serine/threonine protein kinase. receptor type I serine/threonine protein kinase. TGF-beta kinase.
+74	A ribokinase. enzyme.
+75	A ATP citrate synthase. enzyme. This enzyme is also known as acetyl-CoA:oxaloacetate acetyltransferase (isomerizing; ADP- phosphorylating). adenosine triphosphate citrate lyase. ATP:citrate oxaloacetate-lyase [(pro-S)-CH2COO(-)->acetyl-CoA] (ATP- dephosphorylating). ATP citrate (pro-S)-lyase. ATP-citrate (pro-S-)-lyase. ATP-citric lyase. citrate-ATP lyase. citrate cleavage enzyme. citric cleavage enzyme.
+76	A protein kinase C. enzyme. This enzyme is also known as calcium/phospholipid dependent protein kinase. calcium-dependent protein kinase C. calcium-independent protein kinase C. cPKC. nPKC. PKC.
+77	A mannan-binding lectin-associated serine protease-2. enzyme. This enzyme is also known as mannan-binding lectin-associated serine peptidase 2. mannose-binding lectin-associated serine protease-2. MASP2. MASP-2. MBP-associated serine protease-2.
+78	A UTP--glucose-1-phosphate uridylyltransferase. enzyme. This enzyme is also known as glucose-1-phosphate uridylyltransferase. UDP-glucose diphosphorylase. UDP-glucose pyrophosphorylase.
+79	A DNA topoisomerase. enzyme. This enzyme is also known as DNA topoisomerase I. nicking-closing enzyme. omega-protein. relaxing enzyme. swivelase. type I DNA topoisomerase. untwisting enzyme.
+80	A indole-3-glycerol-phosphate synthase. enzyme. This enzyme is also known as indoleglycerol phosphate synthetase.
+81	A ATP phosphoribosyltransferase. enzyme. This enzyme is also known as phosphoribosyl-ATP diphosphorylase. phosphoribosyl-ATP pyrophosphorylase.
+82	A dihydroorotate dehydrogenase (quinone). enzyme. This enzyme is also known as DHOD. DHOdehase. DHODH.
+83	A nucleoside-diphosphate kinase. enzyme. This enzyme is also known as NDK. nucleoside 5'-diphosphate phosphotransferase. nucleoside diphosphokinase.
+84	A protein-tyrosine-phosphatase. enzyme. This enzyme is also known as phosphotyrosine phosphatase. PTPase.
+85	A histone acetyltransferase. enzyme. This enzyme is also known as lysine acetyltransferase. protein lysine acetyltransferase.
+86	A alcohol dehydrogenase (NADP(+)). enzyme. This enzyme is also known as aldehyde reductase (NADPH).
+87	A cyclin-dependent kinase. enzyme. This enzyme is also known as cdc2 kinase. cdk-activating kinase. Cdk-activating protein kinase.
+88	A cystathionine beta-synthase. enzyme. This enzyme is also known as beta-thionase. methylcysteine synthase. serine sulfhydrase.
+89	A protein disulfide-isomerase. enzyme. This enzyme is also known as S-S rearrangase.
+90	A glutaminase. enzyme. This enzyme is also known as L-glutamine amidohydrolase.
+91	A DNA topoisomerase (ATP-hydrolyzing). enzyme. This enzyme is also known as DNA gyrase. DNA topoisomerase II. type II DNA topoisomerase.
+92	A tyrosine--tRNA ligase. enzyme. This enzyme is also known as L-tyrosine-tRNA(Tyr) ligase (AMP-forming). tyrosine-transfer ribonucleate synthetase. tyrosine-transfer RNA ligase. tyrosine translase. tyrosine tRNA synthetase. tyrosyl-transfer ribonucleate synthetase. tyrosyl-transfer ribonucleic acid synthetase. tyrosyl-transfer RNA synthetase. tyrosyl-tRNA ligase. tyrosyl-tRNA synthetase.
+93	A proton-translocating NAD(P)(+) transhydrogenase. enzyme.
+94	A 3'(2'),5'-bisphosphate nucleotidase. enzyme. This enzyme is also known as 3'(2'),5'-bisphosphonucleoside 3'(2')-phosphohydrolase. 3'-phosphoadenylylsulfate 3'-phosphatase. DPNPase. phosphoadenylate 3'-nucleotidase.
+95	A 4a-hydroxytetrahydrobiopterin dehydratase. enzyme. This enzyme is also known as 4alpha-hydroxy-tetrahydropterin dehydratase. pterin-4alpha-carbinolamine dehydratase. tetrahydrobiopterin dehydratase.
+96	A aspartate 1-decarboxylase. enzyme. This enzyme is also known as aspartate alpha-decarboxylase. L-aspartate 1-carboxy-lyase.
+97	A aspartate kinase. enzyme. This enzyme is also known as aspartokinase.
+98	A Transferred entry: 7.1.2.2. enzyme.
+99	A glycogen phosphorylase. enzyme. This enzyme is also known as amylophosphorylase. muscle phosphorylase a and b. polyphosphorylase.
+100	A ferredoxin hydrogenase. enzyme. This enzyme is also known as bidirectional hydrogenase. H2 oxidizing hydrogenase. H2 producing hydrogenase. hydrogenase. hydrogenase (ferredoxin). hydrogenase I. hydrogenase II. hydrogenlyase. hydrogen-lyase. uptake hydrogenase.
+101	A FMN-dependent NADH-azoreductase. enzyme.
+102	A mannan endo-1,4-beta-mannosidase. enzyme. This enzyme is also known as beta-mannanase. endo-1,4-mannanase.
+103	A (S)-2-haloacid dehalogenase. enzyme. This enzyme is also known as 2-haloacid dehalogenase. 2-haloacid halidohydrolase. 2-haloalkanoic acid dehalogenase. 2-haloalkanoid acid halidohydrolase. 2-halocarboxylic acid dehalogenase II. DL-2-haloacid dehalogenase. halocarboxylic acid halidohydrolase. L-2-haloacid dehalogenase. L-DEX.
+104	A phosphoserine transaminase. enzyme. This enzyme is also known as 3-phosphoserine aminotransferase. 3PHP transaminase. hydroxypyruvic phosphate--glutamic transaminase. L-phosphoserine aminotransferase. phosphohydroxypyruvate transaminase. phosphohydroxypyruvic--glutamic transaminase. phosphoserine aminotransferase. PSAT.
+105	A D-aminoacyl-tRNA deacylase. enzyme. This enzyme is also known as D-tyrosyl-tRNA(Tyr) aminoacylhydrolase. D-Tyr-tRNA(Tyr) deacylase.
+106	A nicotinate-nucleotide adenylyltransferase. enzyme. This enzyme is also known as Deamido-NAD(+) diphosphorylase. deamido-NAD(+) pyrophosphorylase.
+107	A alanine--tRNA ligase. enzyme. This enzyme is also known as alanine translase. alanyl-tRNA synthetase.
+108	A dihydropteroate synthase. enzyme. This enzyme is also known as DHPS. dihydropteroate diphosphorylase. dihydropteroate pyrophosphorylase.
+109	A phosphoribosylglycinamide formyltransferase 1. enzyme. This enzyme is also known as 2-amino-N-ribosylacetamide 5'-phosphate transformylase. 5,10-methenyltetrahydrofolate:2-amino-N-ribosylacetamide ribonucleotide transformylase. 5'-phosphoribosylglycinamide transformylase. GAR formyltransferase. GART. GAR TFase. GAR transformylase. glycinamide ribonucleotide transformylase.
+110	A aminoglycoside N(3)-acetyltransferase. enzyme. This enzyme is also known as 3-aminoglycoside acetyltransferase. aminoglycoside 3-N-acetyltransferase.
+111	A alpha-glucosidase. enzyme. This enzyme is also known as acid maltase. glucoinvertase. glucosidosucrase. lysosomal alpha-glucosidase. maltase. maltase-glucoamylase.
+112	A thymidylate synthase (FAD). enzyme. This enzyme is also known as FDTS. flavin dependent thymidylate synthase.
+113	A membrane alanyl aminopeptidase. enzyme. This enzyme is also known as amino-oligopeptidase. aminopeptidase M. aminopeptidase N. membrane alanine aminopeptidase. membrane aminopeptidase I. microsomal aminopeptidase. particle-bound aminopeptidase. peptidase E.
+114	A Transferred entry: 2.3.2.23, 2.3.2.27 and 6.2.1.45. enzyme.
+115	A non-reducing end alpha-L-arabinofuranosidase. enzyme. This enzyme is also known as alpha-L-arabinofuranosidase. arabinofuranosidase. arabinosidase.
+116	A N-acetylneuraminate lyase. enzyme. This enzyme is also known as N-acetylneuraminate pyruvate-lyase. N-acetylneuraminic acid aldolase.
+117	A methylated-DNA--[protein]-cysteine S-methyltransferase. enzyme. This enzyme is also known as 6-O-methylguanine-DNA methyltransferase. O-6-methylguanine-DNA-alkyltransferase.
+118	A protein-serine/threonine phosphatase. enzyme. This enzyme is also known as protein phosphatase-1. protein phosphatase-2A. protein phosphatase-2B. protein phosphatase-2C. serine/threonine specific protein phosphatase.
+119	A bontoxilysin. enzyme. This enzyme is also known as botulinum neurotoxin.
+120	A carbonyl reductase (NADPH). enzyme. This enzyme is also known as aldehyde reductase I. NADPH-dependent carbonyl reductase. prostaglandin 9-ketoreductase. xenobiotic ketone reductase.
+121	A glutaminyl-peptide cyclotransferase. enzyme. This enzyme is also known as glutaminyl cyclase. glutaminyl-tRNA cyclotransferase.
+122	A lactoylglutathione lyase. enzyme. This enzyme is also known as (R)-S-lactoylglutathione methylglyoxal-lyase (isomerizing). aldoketomutase. glyoxalase I. ketone-aldehyde mutase. methylglyoxalase.
+123	A glutamate--tRNA ligase. enzyme. This enzyme is also known as glutamic acid translase. glutamyl-tRNA synthetase.
+124	A aspartate-semialdehyde dehydrogenase. enzyme. This enzyme is also known as ASA dehydrogenase. aspartic semialdehyde dehydrogenase. L-aspartate-beta-semialdehyde dehydrogenase.
+125	A glutamate decarboxylase. enzyme. This enzyme is also known as L-glutamate 1-carboxy-lyase.
+126	A holo-[acyl-carrier-protein] synthase. enzyme. This enzyme is also known as 4'-phosphopantetheinyl transferase. ACPS. acyl carrier protein holoprotein (holo-ACP) synthetase. acyl carrier protein synthase. acyl carrier protein synthetase. alphaaminoadipic semialdehyde dehydrogenase-phosphopantetheinyl transferase. holo-ACP synthase. holo-ACP synthetase. holosynthase. L-aminoadipate-semialdehyde dehydrogenase-phosphopantetheinyl transferase. P-pant transferase. PPTase.
+127	A tRNA (guanine(37)-N(1))-methyltransferase. enzyme. This enzyme is also known as transfer RNA (m(1)G(37)) methyltransferase. tRNA (m(1)G(37)) methyltransferase. tRNA-(N(1)G37) methyltransferase.
+128	A diguanylate cyclase. enzyme. This enzyme is also known as DGC.
+129	A protein adenylyltransferase. enzyme. This enzyme is also known as AMPylase.
+130	A dTDP-4-dehydrorhamnose 3,5-epimerase. enzyme. This enzyme is also known as dTDP-4-keto-6-deoxyglucose 3,5-epimerase. dTDP-L-rhamnose synthetase. thymidine diphospho-4-ketorhamnose 3,5-epimerase.
+131	A leucyl aminopeptidase. enzyme. This enzyme is also known as cytosol aminopeptidase. leucine aminopeptidase. peptidase S.
+132	A anthranilate synthase. enzyme.
+133	A (2E,6E)-farnesyl diphosphate synthase. enzyme. This enzyme is also known as farnesyl-diphosphate synthase. farnesyl pyrophosphate synthetase. FPP synthetase. geranyltranstransferase.
+134	A 1-deoxy-D-xylulose-5-phosphate reductoisomerase. enzyme. This enzyme is also known as 1-deoxyxylulose-5-phosphate reductoisomerase. DXP-reductoisomerase.
+135	A haloalkane dehalogenase. enzyme. This enzyme is also known as 1-chlorohexane halidohydrolase.
+136	A exo-alpha-sialidase. enzyme. This enzyme is also known as alpha-neuraminidase. N-acylneuraminate glycohydrolase. neuraminidase. sialidase.
+137	A coagulation factor VIIa. enzyme.
+138	A beta-glucosidase. enzyme. This enzyme is also known as amygdalase. beta-D-glucoside glucohydrolase. cellobiase. gentobiase.
+139	A 3',5'-cyclic-AMP phosphodiesterase. enzyme. This enzyme is also known as cAMP-specific PDE. cAMP-specific phosphodiesterase.
+140	A 2-dehydropantoate 2-reductase. enzyme. This enzyme is also known as ketopantoate reductase. ketopantoic acid reductase. KPA reductase.
+141	A inorganic diphosphatase. enzyme. This enzyme is also known as diphosphate phosphohydrolase. inorganic pyrophosphatase. pyrophosphate phosphohydrolase.
+142	A adenosylmethionine decarboxylase. enzyme. This enzyme is also known as S-adenosyl-L-methionine carboxy-lyase. S-adenosyl-L-methionine decarboxylase.
+143	A enoyl-[acyl-carrier-protein] reductase (NADH). enzyme. This enzyme is also known as enoyl-ACP reductase. NADH-enoyl acyl carrier protein reductase. NADH-specific enoyl-ACP reductase.
+144	A tryptophan--tRNA ligase. enzyme. This enzyme is also known as L-tryptophan-tRNA(Trp) ligase (AMP-forming). TrpRS. tryptophan translase. tryptophanyl ribonucleic synthetase. tryptophanyl-transfer ribonucleate synthetase. tryptophanyl-transfer ribonucleic acid synthetase. tryptophanyl-transfer ribonucleic synthetase. tryptophanyl-transfer RNA synthetase. tryptophanyl-tRNA synthase. tryptophanyl-tRNA synthetase.
+145	A arginase. enzyme. This enzyme is also known as arginine amidinase. canavanase.
+146	A beta-agarase. enzyme. This enzyme is also known as agarase. endo-beta-agarase.
+147	A ribulose-bisphosphate carboxylase. enzyme. This enzyme is also known as carboxydismutase. diphosphoribulose carboxylase. D-ribulose-1,5-bisphosphate carboxylase. D-ribulose 1,5-diphosphate carboxylase. ribulose 1,5-bisphosphate carboxylase. ribulose 1,5-bisphosphate carboxylase/oxygenase. ribulose 1,5-diphosphate carboxylase. ribulose 1,5-diphosphate carboxylase/oxygenase. ribulose bisphosphate carboxylase/oxygenase. ribulose diphosphate carboxylase. ribulose diphosphate carboxylase/oxygenase. RuBisCO. RuBP carboxylase.
+148	A P-type Ca(2+) transporter. enzyme. This enzyme is also known as Ca(2+)-transporting ATPase. calcium pump. calcium-translocating P-type ATPase.
+149	A vesicle-fusing ATPase. enzyme.
+150	A 3-deoxy-manno-octulosonate-8-phosphatase. enzyme.
+151	A Transferred entry: 5.6.1.8. enzyme.
+152	A quinol--cytochrome-c reductase. enzyme. This enzyme is also known as complex III (mitochondrial electron transport). cytochrome bc1 complex. ubiquinol--cytochrome-c reductase. ubiquinone--cytochrome-c oxidoreductase.
+153	A small monomeric GTPase. enzyme.
+154	A adenosine deaminase. enzyme. This enzyme is also known as adenosine aminohydrolase.
+155	A E2 ubiquitin-conjugating enzyme. enzyme. This enzyme is also known as ubiquitin-carrier-protein E2. ubiquitin-conjugating enzyme E2.
+156	A shikimate kinase. enzyme.
+157	A Transferred entry: 7.1.2.2. enzyme.
+158	A aspartate transaminase. enzyme. This enzyme is also known as aspartate aminotransferase. glutamic--aspartic transaminase. glutamic--oxaloacetic transaminase. transaminase A.
+159	A complement subcomponent C1r. enzyme.
+160	A arginine decarboxylase. enzyme. This enzyme is also known as L-arginine carboxy-lyase.
+161	A anthranilate phosphoribosyltransferase. enzyme. This enzyme is also known as phosphoribosyl-anthranilate diphosphorylase. phosphoribosyl-anthranilate pyrophosphorylase.
+162	A superoxide dismutase. enzyme.
+163	A aspartate--tRNA ligase. enzyme. This enzyme is also known as aspartic acid translase. aspartyl-tRNA synthetase.
+164	A mitogen-activated protein kinase kinase kinase. enzyme. This enzyme is also known as MAP3K. MAP kinase kinase kinase. MAPKKK. MEKK. MEK kinase. MLK-like mitogen-activated protein triple kinase. MLTK.
+165	A 4-hydroxy-tetrahydrodipicolinate synthase. enzyme. This enzyme is also known as DHDPS. dihydrodipicolinate synthetase.
+166	A dihydrofolate reductase. enzyme. This enzyme is also known as tetrahydrofolate dehydrogenase.
+167	A leucine--tRNA ligase. enzyme. This enzyme is also known as leucine translase. leucyl-tRNA synthetase.
+168	A ADP-ribose diphosphatase. enzyme. This enzyme is also known as adenosine diphosphoribose pyrophosphatase. ADP-ribose phosphohydrolase. ADP-ribose pyrophosphatase. ADP-ribose ribophosphohydrolase. ADPR-PPase.
+169	A acetate kinase. enzyme. This enzyme is also known as acetate kinase (phosphorylating). acetic kinase. acetokinase. AK.
+170	A dihydroneopterin aldolase. enzyme. This enzyme is also known as 2-amino-4-hydroxy-6-(D-erythro-1,2,3-trihydroxypropyl)-7,8- dihydropteridine glycolaldehyde-lyase. 7,8-dihydroneopterin aldolase.
+171	A tRNA-intron lyase. enzyme. This enzyme is also known as tRNA splicing endonuclease.
+172	A methionine synthase. enzyme. This enzyme is also known as 5-methyltetrahydrofolate--homocysteine S-methyltransferase. 5-methyltetrahydrofolate--homocysteine transmethylase. B12 N(5)-methyltetrahydrofolate homocysteine methyltransferase. cobalamin-dependent methionine synthase. methionine synthase (cobalamin-dependent). methionine synthetase. methyltetrahydrofolate--homocysteine vitamin B12 methyltransferase. N(5)-methyltetrahydrofolate--homocysteine cobalamin methyltransferase. N(5)-methyltetrahydrofolate methyltransferase. N(5)-methyltetrahydrofolic--homocysteine vitamin B12 transmethylase. N-methyltetrahydrofolate:L-homocysteine methyltransferase. tetrahydrofolate methyltransferase. tetrahydropteroylglutamate methyltransferase. tetrahydropteroylglutamic methyltransferase. vitamin B12 methyltransferase.
+173	A dTMP kinase. enzyme. This enzyme is also known as thymidylate kinase. thymidylic acid kinase. TMPK.
+174	A fructose-bisphosphate aldolase. enzyme. This enzyme is also known as aldolase. D-fructose-1,6-bisphosphate D-glyceraldehyde-3-phosphate-lyase. fructose-1,6-bisphosphate triosephosphate-lyase.
+175	A phospholipase A2. enzyme. This enzyme is also known as lecithinase A. phosphatidase. phosphatidolipase. phosphatidylcholine 2-acylhydrolase.
+176	A beta-N-acetylhexosaminidase. enzyme. This enzyme is also known as beta-hexosaminidase. hexosaminidase. N-acetyl-beta-glucosaminidase.
+177	A homoserine dehydrogenase. enzyme.
+178	A carbonic anhydrase. enzyme. This enzyme is also known as carbonate dehydratase. carbonate hydro-lyase. carbonic dehydratase.
+179	A carboxypeptidase Taq. enzyme. This enzyme is also known as carboxypeptidase 1.
+180	A HECT-type E3 ubiquitin transferase. enzyme. This enzyme is also known as HECT E3 ligase. ubiquitin transferase HECT-E3.
+181	A alpha-mannosidase. enzyme.
+182	A hydroxyisourate hydrolase. enzyme. This enzyme is also known as 5-hydroxyisourate hydrolase. HIUHase.
+183	A diphosphomevalonate decarboxylase. enzyme. This enzyme is also known as mevalonate diphosphate decarboxylase. mevalonate pyrophosphate decarboxylase.
+184	A deoxyribonuclease IV. enzyme. This enzyme is also known as deoxyribonuclease IV (phage T4-induced). endodeoxyribonuclease IV (phage T4-induced). endonuclease II. endonuclease IV.
+185	A fructose-bisphosphatase. enzyme. This enzyme is also known as fructose 1,6-bisphosphatase. hexose diphosphatase.
+186	A alanine racemase. enzyme.
+187	A 3',5'-cyclic-nucleotide phosphodiesterase. enzyme. This enzyme is also known as cyclic AMP phosphodiesterase.
+188	A adenylosuccinate lyase. enzyme. This enzyme is also known as adenylosuccinase. succino AMP-lyase.
+189	A isopentenyl-diphosphate Delta-isomerase. enzyme. This enzyme is also known as IPP isomerase. isopentenylpyrophosphate Delta-isomerase. isopentenylpyrophosphate isomerase. methylbutenylpyrophosphate isomerase.
+190	A proteasome endopeptidase complex. enzyme. This enzyme is also known as ingensin. Lens neutral proteinase. macropain. multicatalytic endopeptidase complex. multicatalytic proteinase (complex). prosome. proteasome.
+191	A alpha-galactosidase. enzyme. This enzyme is also known as melibiase.
+192	A licheninase. enzyme. This enzyme is also known as 1,3-1,4-beta-D-glucan 4-glucanohydrolase. beta-glucanase. endo-beta-1,3-1,4 glucanase. lichenase. mixed linkage beta-glucanase.
+193	A methane monooxygenase (soluble). enzyme. This enzyme is also known as methane hydroxylase.
+194	A acyl-[acyl-carrier-protein]--UDP-N-acetylglucosamine O-acyltransferase. enzyme. This enzyme is also known as acyl-[acyl-carrier-protein]-UDP-N-acetylglucosamine O-acyltransferase. UDP-N-acetylglucosamine acyltransferase.
+195	A RING-type E3 ubiquitin transferase. enzyme. This enzyme is also known as RING E3 ligase. ubiquitin transferase RING E3.
+196	A NADH:ubiquinone reductase (H(+)-translocating). enzyme. This enzyme is also known as coenzyme Q reductase. complex I (electron transport chain). complex I (mitochondrial electron transport). dihydronicotinamide adenine dinucleotide-coenzyme Q reductase. DPNH-coenzyme Q reductase. DPNH-ubiquinone reductase. electron transfer complex I. mitochondrial electron transport complex 1. mitochondrial electron transport complex I. NADH coenzyme Q1 reductase. NADH-coenzyme Q reductase. NADH-CoQ oxidoreductase. NADH-CoQ reductase. NADH dehydrogenase (ubiquinone). NADH-ubiquinone oxidoreductase. NADH-ubiquinone reductase. reduced nicotinamide adenine dinucleotide-coenzyme Q reductase. ubiquinone reductase.
+197	A DNA (cytosine-5-)-methyltransferase. enzyme. This enzyme is also known as cytosine 5-methyltransferase. cytosine DNA methylase. cytosine DNA methyltransferase. cytosine-specific DNA methyltransferase. deoxyribonucleate methylase. deoxyribonucleate methyltransferase. deoxyribonucleic (cytosine-5-)-methyltransferase. deoxyribonucleic acid (cytosine-5-)-methyltransferase. deoxyribonucleic acid methylase. deoxyribonucleic acid methyltransferase. deoxyribonucleic acid modification methylase. deoxyribonucleic methylase. DNA 5-cytosine methylase. DNA-cytosine 5-methylase. DNA cytosine C(5) methylase. DNA cytosine methylase. DNA-cytosine methyltransferase. DNA methylase. DNA methyltransferase. DNA transmethylase. methylphosphotriester-DNA methyltransferase. modification methylase. restriction-modification system. site-specific DNA-methyltransferase (cytosine-specific). Type II DNA methylase.
+198	A endo-1,4-beta-xylanase. enzyme.
+199	A catechol oxidase. enzyme. This enzyme is also known as diphenol oxidase. o-diphenolase. phenolase. polyphenol oxidase. tyrosinase.
+200	A tRNA pseudouridine(55) synthase. enzyme. This enzyme is also known as Psi(55) synthase. Psi(55) tRNA pseudouridine synthase. tRNA pseudouridine 55 synthase. tRNA Psi(55) synthase.
+201	A Transferred entry: 7.1.1.9. enzyme.
+202	A protein O-GlcNAcase. enzyme. This enzyme is also known as glycoside hydrolase O-GlcNAcase. OGA. O-GlcNAcase. O-GlcNAc hydrolase.
+203	A L-threonine 3-dehydrogenase. enzyme. This enzyme is also known as TDH.
+204	A enoyl-CoA hydratase. enzyme. This enzyme is also known as enoyl hydrase. unsaturated acyl-CoA hydratase.
+205	A cathepsin L. enzyme.
+206	A RNA ligase (ATP). enzyme. This enzyme is also known as polyribonucleotide synthase (ATP). ribonucleic ligase.
+207	A phosphoinositide phospholipase C. enzyme. This enzyme is also known as 1-phosphatidyl-D-myo-inositol-4,5-bisphosphate inositoltrisphosphohydrolase. 1-phosphatidylinositol-4,5-bisphosphate phosphodiesterase. monophosphatidylinositol phosphodiesterase. phosphatidylinositol phospholipase C. phosphoinositidase C. PI-PLC. triphosphoinositide phosphodiesterase.
+208	A trypsin. enzyme. This enzyme is also known as alpha-trypsin. beta-trypsin.
+209	A acetyl-CoA C-acetyltransferase. enzyme. This enzyme is also known as acetoacetyl-CoA thiolase.
+210	A poly(A)-specific ribonuclease. enzyme.
+211	A NAD(P)H dehydrogenase (quinone). enzyme. This enzyme is also known as azoreductase. dehydrogenase, reduced nicotinamide adenine dinucleotide (phosphate, quinone). diaphorase. DT-diaphorase. flavoprotein NAD(P)H-quinone reductase. menadione oxidoreductase. menadione reductase. NAD(P)H:(quinone-acceptor)oxidoreductase. NAD(P)H: menadione oxidoreductase. NAD(P)H2 dehydrogenase (quinone). NAD(P)H dehydrogenase. NAD(P)H menadione reductase. NAD(P)H-quinone dehydrogenase. NAD(P)H-quinone oxidoreductase. NADH-menadione reductase. naphthoquinone reductase. p-benzoquinone reductase. phylloquinone reductase. quinone reductase. reduced NAD(P)H dehydrogenase. reduced nicotinamide-adenine dinucleotide (phosphate) dehydrogenase. viologen accepting pyridine nucleotide oxidoreductase. vitamin K reductase. vitamin-K reductase.
+212	A beta-ketoacyl-[acyl-carrier-protein] synthase III. enzyme. This enzyme is also known as 3-ketoacyl-acyl carrier protein synthase III. 3-oxoacyl:ACP synthase III. beta-ketoacyl (acyl carrier protein) synthase III. beta-ketoacyl-ACP synthase III. beta-ketoacyl-acyl carrier protein synthase III. KASIII. KAS III.
+213	A serine-type D-Ala-D-Ala carboxypeptidase. enzyme. This enzyme is also known as D-alanyl-D-alanine carboxypeptidase. DD-peptidase. DD-transpeptidase.
+214	A 16S rRNA (uracil(1498)-N(3))-methyltransferase. enzyme. This enzyme is also known as m(3)U(1498) specific methyltransferase.
+215	A receptor protein-tyrosine kinase. enzyme. This enzyme is also known as receptor protein tyrosine kinase.
+216	A adenylate cyclase. enzyme. This enzyme is also known as 3',5'-cyclic AMP synthetase. adenyl cyclase. adenylyl cyclase. ATP pyrophosphate-lyase.
+217	A sulfate adenylyltransferase. enzyme. This enzyme is also known as ATP-sulfurylase. sulfate adenylate transferase. sulfurylase.
+218	A 6,7-dimethyl-8-ribityllumazine synthase. enzyme. This enzyme is also known as lumazine synthase.
+219	A coagulation factor IXa. enzyme. This enzyme is also known as Christmas factor.
+220	A glutathione synthase. enzyme. This enzyme is also known as glutathione synthetase. GSH synthetase.
+221	A purine nucleosidase. enzyme. This enzyme is also known as IAG-NH. IAG-nucleoside hydrolase. inosine-adenosine-guanosine preferring nucleoside hydrolase. N-D-ribosylpurine ribohydrolase. N-ribosyl purine ribohydrolase. nucleosidase. nucleosidase g. nucleoside hydrolase. purine beta-ribosidase. purine nucleoside hydrolase. purine ribonucleosidase. purine-specific nucleoside N-ribohydrolase. ribonucleoside hydrolase.
+222	A phosphoglycerate kinase. enzyme.
+223	A signal peptidase I. enzyme. This enzyme is also known as bacterial leader peptidase I. phage-procoat-leader peptidase. SPase I.
+224	A D-alanine--D-alanine ligase. enzyme. This enzyme is also known as alanine:alanine ligase (ADP-forming). alanylalanine synthetase. D-Ala-D-Ala synthetase. D-alanylalanine synthetase. D-alanyl-D-alanine synthetase.
+225	A rRNA N-glycosylase. enzyme. This enzyme is also known as rRNA N-glycosidase.
+226	A triose-phosphate isomerase. enzyme. This enzyme is also known as phosphotriose isomerase. triosephosphate isomerase. triosephosphate mutase. triose phosphoisomerase.
+227	A adenylate kinase. enzyme. This enzyme is also known as adenylic kinase. adenylokinase. myokinase.
+228	A dual-specificity kinase. enzyme.
+229	A pyrroline-5-carboxylate reductase. enzyme. This enzyme is also known as P5CR.
+230	A beta-glucuronidase. enzyme.
+231	A endopeptidase La. enzyme. This enzyme is also known as ATP-dependent protease La. ATP-dependent serine proteinase.
+232	A cytidine deaminase. enzyme. This enzyme is also known as (deoxy)cytidine deaminase. cytidine aminohydrolase. cytosine nucleoside deaminase.
+233	A histidine kinase. enzyme. This enzyme is also known as histidine protein kinase. HK1. protein histidine kinase. protein kinase. protein kinase (histidine).
+234	A histidine--tRNA ligase. enzyme. This enzyme is also known as histidine translase. histidyl-tRNA synthetase.
+235	A IMP dehydrogenase. enzyme. This enzyme is also known as IMP oxidoreductase. inosinate dehydrogenase. inosine 5'-monophosphate dehydrogenase. inosine monophosphate oxidoreductase. inosinic acid dehydrogenase.
+236	A deoxyribose-phosphate aldolase. enzyme. This enzyme is also known as 2-deoxy-D-ribose-5-phosphate acetaldehyde-lyase. deoxyriboaldolase. phosphodeoxyriboaldolase.
+237	A phosphoribosylaminoimidazolesuccinocarboxamide synthase. enzyme. This enzyme is also known as 4-(N-succinocarboxamide)-5-aminoimidazole synthetase. 4-[(N-succinylamino)carbonyl]-5-aminoimidazole ribonucleotide synthetase. 5-aminoimidazole-4-N-succinocarboxamide ribonucleotide synthetase. phosphoribosylaminoimidazole-succinocarboxamide synthase. phosphoribosylaminoimidazolesuccinocarboxamide synthetase. phosphoribosylaminoimidazole-succinocarboxamide synthetase. SAICARs. SAICAR synthase. SAICAR synthetase.
+238	A thymidylate synthase. enzyme.
+239	A triacylglycerol lipase. enzyme. This enzyme is also known as lipase. tributyrase. triglyceride lipase.
+240	A caspase-3. enzyme. This enzyme is also known as apopain. CASP-3. CPP32. yama protein.
+241	A NAD(+) kinase. enzyme. This enzyme is also known as DPN kinase.
+242	A nitric-oxide synthase (NADPH). enzyme. This enzyme is also known as endothelium-derived relaxation factor-forming enzyme. endothelium-derived relaxing factor synthase. NADPH-diaphorase. nitric-oxide synthetase. NO synthase.
+243	A DNA helicase. enzyme.
+244	A chitinase. enzyme. This enzyme is also known as 1,4-beta-poly-N-acetylglucosaminidase. chitodextrinase. poly-beta-glucosaminidase.
+245	A N-acetylmuramoyl-L-alanine amidase. enzyme.
+246	A nicotinate phosphoribosyltransferase. enzyme. This enzyme is also known as niacin ribonucleotidase. nicotinic acid mononucleotide glycohydrolase. nicotinic acid mononucleotide pyrophosphorylase. nicotinic acid phosphoribosyltransferase.
+247	A RNA-directed DNA polymerase. enzyme. This enzyme is also known as DNA nucleotidyltransferase (RNA-directed). reverse transcriptase. revertase.
+248	A phosphoglycolate phosphatase. enzyme.
+249	A laccase. enzyme. This enzyme is also known as urishiol oxidase.
+250	A 3-hydroxyacyl-CoA dehydrogenase. enzyme. This enzyme is also known as beta-hydroxyacyl dehydrogenase. beta-keto-reductase.
+251	A aspartate carbamoyltransferase. enzyme. This enzyme is also known as aspartate transcarbamylase. ATCase. carbamoylaspartotranskinase.
+252	A deoxyribodipyrimidine photo-lyase. enzyme. This enzyme is also known as DNA photolyase. photoreactivating enzyme.
+253	A succinate dehydrogenase. enzyme. This enzyme is also known as fumarate reductase (menaquinone). succinate dehydrogenase (menaquinone). succinate dehydrogenase (quinone). succinate dehydrogenase (ubiquinone). succinic dehydrogenase.
+254	A calcium/calmodulin-dependent protein kinase. enzyme. This enzyme is also known as Ca(2+)/calmodulin-dependent microtubule-associated protein 2 kinase. Ca(2+)/calmodulin-dependent protein kinase 1. Ca(2+)/calmodulin-dependent protein kinase II. Ca(2+)/calmodulin-dependent protein kinase IV. Ca(2+)/calmodulin-dependent protein kinase kinase. Ca(2+)/calmodulin-dependent protein kinase kinase beta. calcium/calmodulin-dependent protein kinase type II. caldesmon kinase. caldesmon kinase (phosphorylating). calmodulin-dependent kinase II. CaMKI. CaMKII. CaM kinase. CaM kinase II. CaMKIV. CaMKKalpha. CaMKKbeta. CAM PKII. CaM-regulated serine/threonine kinase. microtubule-associated protein 2 kinase.
+255	A mitogen-activated protein kinase. enzyme. This enzyme is also known as c-Jun N-terminal kinase. ERK. extracellular signal-regulated kinase. JNK. MAPK. MAP kinase. MBP kinase I. MBP kinase II. microtubule-associated protein 2 kinase. microtubule-associated protein kinase. myelin basic protein kinase. SAPK. stress-activated protein kinase.
+256	A beta-ketoacyl-[acyl-carrier-protein] synthase I. enzyme. This enzyme is also known as 3-ketoacyl-acyl carrier protein synthase. 3-oxoacyl-[acyl-carrier-protein] synthase. acyl-malonyl(acyl-carrier-protein)-condensing enzyme. acyl-malonyl acyl carrier protein-condensing enzyme. beta-ketoacyl-[acyl carrier protein] synthase. beta-ketoacyl-ACP synthase I. beta-ketoacyl-ACP synthetase. beta-ketoacyl acyl carrier protein synthase. beta-ketoacyl-acyl carrier protein synthetase. beta-ketoacylsynthase. beta-ketoacyl synthetase. condensing enzyme. fatty acid condensing enzyme. KAS I.
+257	A mannosyl-oligosaccharide 1,2-alpha-mannosidase. enzyme. This enzyme is also known as Man9-mannosidase. ManI. mannosidase 1A. mannosidase 1B.
+258	A RBR-type E3 ubiquitin transferase. enzyme.
+259	A arylamine N-acetyltransferase. enzyme. This enzyme is also known as arylamine acetylase.
+260	A glutamate racemase. enzyme.
+261	A quercetin 2,3-dioxygenase. enzyme.
+262	A tyrosinase. enzyme. This enzyme is also known as cresolase. monophenol monooxygenase. monophenol oxidase. N-acetyl-6-hydroxytryptophan oxidase. phenolase. tyrosine-dopa oxidase.
+263	A peptide-methionine (S)-S-oxide reductase. enzyme. This enzyme is also known as methionine S-oxide reductase. methionine S-oxide reductase (S-form oxidizing). methionine sulfoxide reductase. methionine sulfoxide reductase A. methionine sulphoxide reductase A. peptide Met(O) reductase. peptide methionine sulfoxide reductase.
+264	A thiosulfate sulfurtransferase. enzyme. This enzyme is also known as rhodanese. thiosulfate cyanide transsulfurase. thiosulfate thiotransferase.
+265	A lysine--tRNA ligase. enzyme. This enzyme is also known as lysine translase. lysyl-tRNA synthetase.
+266	A Transferred entry: 4.6.1.24. enzyme.
+267	A polynucleotide adenylyltransferase. enzyme. This enzyme is also known as NTP polymerase. poly(A) polymerase. RNA adenylating enzyme.
+268	A L-lactate dehydrogenase. enzyme. This enzyme is also known as L-lactic acid dehydrogenase. L-lactic dehydrogenase.
+269	A nitrite reductase (NO-forming). enzyme. This enzyme is also known as cd-cytochrome nitrite reductase. cytochrome c-551:O2, NO2(+) oxidoreductase. cytochrome cd. cytochrome cd1. hydroxylamine (acceptor) reductase. methyl viologen-nitrite reductase. nitrite reductase. nitrite reductase (cytochrome; NO-forming). nitrite reductase (cytochrome). Pseudomonas cytochrome oxidase.
+270	A 16S rRNA (adenine(1518)-N(6)/adenine(1519)-N(6))-dimethyltransferase. enzyme.
+271	A ubiquitinyl hydrolase 1. enzyme. This enzyme is also known as ubiquitin C-terminal hydrolase. ubiquitin thiolesterase.
+272	A protein-L-isoaspartate(D-aspartate) O-methyltransferase. enzyme. This enzyme is also known as L-isoaspartyl protein carboxyl methyltransferase. protein beta-aspartate O-methyltransferase. protein D-aspartate methyltransferase. protein L-isoaspartyl methyltransferase.
+273	A hydroxymethylglutaryl-CoA synthase. enzyme. This enzyme is also known as (S)-3-hydroxy-3-methylglutaryl-CoA acetoacetyl-CoA-lyase (CoA- acetylating). 3-hydroxy-3-methylglutaryl-CoA synthase. 3-hydroxy-3-methylglutaryl CoA synthetase. 3-hydroxy-3-methylglutaryl coenzyme A synthase. 3-hydroxy-3-methylglutaryl-coenzyme A synthase. 3-hydroxy-3-methylglutaryl coenzyme A synthetase. acetoacetyl coenzyme A transacetase. beta-hydroxy-beta-methylglutaryl-CoA synthase. HMG-CoA synthase. hydroxymethylglutaryl coenzyme alpha-condensing enzyme. hydroxymethylglutaryl coenzyme A synthase.
+274	A hexokinase. enzyme. This enzyme is also known as hexokinase type I. hexokinase type II. hexokinase type III. hexokinase type IV (glucokinase).
+275	A carboxylesterase. enzyme. This enzyme is also known as ali-esterase. B-esterase. cocaine esterase. methylbutyrase. monobutyrase. procaine esterase.
+276	A fructokinase. enzyme. This enzyme is also known as D-fructokinase.
+277	A ribose-5-phosphate isomerase. enzyme. This enzyme is also known as 5-phosphoribose isomerase. D-ribose-5-phosphate ketol-isomerase. phosphopentoseisomerase. phosphopentosisomerase. phosphoriboisomerase. ribose 5-phosphate epimerase. ribose phosphate isomerase.
+278	A 6-phosphofructokinase. enzyme. This enzyme is also known as phosphofructokinase I. phosphohexokinase.
+279	A 3-methyl-2-oxobutanoate dehydrogenase (2-methylpropanoyl-transferring). enzyme. This enzyme is also known as 2-oxoisocaproate dehydrogenase. 2-oxoisovalerate (lipoate) dehydrogenase. 3-methyl-2-oxobutanoate dehydrogenase (lipoamide). alpha-keto-alpha-methylvalerate dehydrogenase. alpha-ketoisocaproate dehydrogenase. alpha-ketoisocaproic-alpha-keto-alpha-methylvaleric dehydrogenase. alpha-ketoisocaproic dehydrogenase. alpha-ketoisovalerate dehydrogenase. alpha-oxoisocaproate dehydrogenase. BCKDH. BCOAD. branched-chain (-2-oxoacid) dehydrogenase (BCD). branched-chain 2-keto acid dehydrogenase. branched-chain 2-oxo acid dehydrogenase. branched-chain alpha-keto acid dehydrogenase. branched-chain alpha-oxo acid dehydrogenase. branched chain keto acid dehydrogenase. branched-chain ketoacid dehydrogenase. branched-chain keto acid dehydrogenase. dehydrogenase, 2-oxoisovalerate (lipoate).
+280	A phosphoadenylyl-sulfate reductase (thioredoxin). enzyme. This enzyme is also known as 3'-phosphoadenylylsulfate reductase. PAdoPS reductase. PAPS reductase. PAPS reductase, thioredoxin-dependent. PAPS sulfotransferase. phosphoadenosine-phosphosulfate reductase. thioredoxin:3'-phospho-adenylylsulfate reductase. thioredoxin:adenosine 3'-phosphate 5'-phosphosulfate reductase.
+281	A NADPH dehydrogenase. enzyme. This enzyme is also known as NADPH diaphorase.
+282	A ribonuclease P. enzyme.
+283	A dihydrolipoyl dehydrogenase. enzyme. This enzyme is also known as dehydrolipoate dehydrogenase. diaphorase. dihydrolipoamide dehydrogenase. dihydrolipoic dehydrogenase. dihydrothioctic dehydrogenase. E3 component of alpha-ketoacid dehydrogenase complexes. glycine-cleavage system L-protein. LDP-Glc. LDP-Val. lipoamide dehydrogenase (NADH). lipoamide oxidoreductase (NADH). lipoamide reductase. lipoamide reductase (NADH). lipoate dehydrogenase. lipoic acid dehydrogenase. lipoyl dehydrogenase. L-protein.
+284	A alpha,alpha-trehalose-phosphate synthase (UDP-forming). enzyme. This enzyme is also known as transglucosylase. trehalose 6-phosphate synthase. trehalose 6-phosphate synthetase. trehalose phosphate synthase. trehalose phosphate synthetase. trehalosephosphate-UDP glucosyltransferase. UDP-glucose--glucose-phosphate glucosyltransferase.
+285	A glutathione-disulfide reductase. enzyme. This enzyme is also known as glutathione reductase. glutathione reductase (NADPH). glutathione S-reductase. GSH reductase. GSSG reductase. NADPH:oxidized-glutathione oxidoreductase. NADPH-glutathione reductase. NADPH-GSSG reductase.
+286	A acetolactate synthase. enzyme. This enzyme is also known as acetohydroxyacid synthase. acetohydroxy acid synthetase. acetolactate pyruvate-lyase (carboxylating). acetolactic synthetase. alpha-acetohydroxyacid synthase. alpha-acetohydroxy acid synthetase. alpha-acetolactate synthase. alpha-acetolactate synthetase.
+287	A 3-phytase. enzyme. This enzyme is also known as 1-phytase. myo-inositol-hexakisphosphate 3-phosphohydrolase. phytase. phytate 1-phosphatase. phytate 3-phosphatase. phytate 6-phosphatase.
+288	A GMP synthase (glutamine-hydrolyzing). enzyme. This enzyme is also known as GMP synthetase (glutamine-hydrolyzing).
+289	A acetylglutamate kinase. enzyme.
+290	A Transferred entry: 4.3.3.7. enzyme.
+291	A 5-oxoprolinase (ATP-hydrolyzing). enzyme. This enzyme is also known as 5-OPase. 5-oxo-L-prolinase. pyroglutamase (ATP-hydrolyzing).
+292	A chloride peroxidase. enzyme. This enzyme is also known as chloroperoxidase. CPO. vanadium haloperoxidase.
+293	A acetylxylan esterase. enzyme.
+294	A ribose-phosphate diphosphokinase. enzyme. This enzyme is also known as Phosphoribosyl diphosphate synthetase. Phosphoribosyl pyrophosphate synthetase. ribose-phosphate pyrophosphokinase.
+295	A adenosine kinase. enzyme.
+296	A methionine--tRNA ligase. enzyme. This enzyme is also known as methionine translase. methionyl-transfer ribonucleate synthetase. methionyl-transfer ribonucleic acid synthetase. methionyl-transfer RNA synthetase. methionyl-tRNA synthetase. MetRS.
+297	A adenine phosphoribosyltransferase. enzyme. This enzyme is also known as AMP diphosphorylase. AMP pyrophosphorylase. APRT. transphosphoribosidase.
+298	A penicillin amidase. enzyme. This enzyme is also known as penicillin acylase.
+299	A thioredoxin-disulfide reductase. enzyme. This enzyme is also known as NADPH:oxidized thioredoxin oxidoreductase. NADPH--thioredoxin reductase. NADP--thioredoxin reductase. thioredoxin reductase (NADPH).
+300	A ribonuclease H. enzyme. This enzyme is also known as endoribonuclease H. RNase H.
+301	A ribonucleoside-diphosphate reductase. enzyme. This enzyme is also known as ribonucleotide reductase.
+302	A ferredoxin:protochlorophyllide reductase (ATP-dependent). enzyme. This enzyme is also known as light-independent protochlorophyllide reductase.
+303	A [histone H3]-lysine(4) N-trimethyltransferase. enzyme.
+304	A 6-phosphogluconolactonase. enzyme.
+305	A shikimate dehydrogenase (NADP(+)). enzyme. This enzyme is also known as 5-dehydroshikimate reductase. 5-dehydroshikimic reductase. dehydroshikimic reductase. DHS reductase. shikimate 5-dehydrogenase. shikimate dehydrogenase. shikimate oxidoreductase.
+306	A dynamin GTPase. enzyme.
+307	A o-succinylbenzoate synthase. enzyme. This enzyme is also known as 2-succinylbenzoate synthase. OSBS. OSB synthase. o-succinylbenzoic acid synthase.
+308	A malate dehydrogenase. enzyme. This enzyme is also known as malic dehydrogenase.
+309	A histidinol-phosphate transaminase. enzyme. This enzyme is also known as Histidinol-phosphate aminotransferase. Imidazole acetol-phosphate transaminase. imidazolylacetolphosphate aminotransferase.
+310	A ferroxidase. enzyme. This enzyme is also known as ceruloplasmin. HEPH. hephaestin.
+311	A adenosylhomocysteine nucleosidase. enzyme. This enzyme is also known as 5'-methyladenosine nucleosidase. AdoHcy/MTA nucleosidase. S-adenosylhomocysteine/5'-methylthioadenosine nucleosidase. S-adenosylhomocysteine hydrolase. S-adenosylhomocysteine nucleosidase.
+312	A ribonuclease III. enzyme. This enzyme is also known as ribonuclease 3. RNase III.
+313	A succinate--CoA ligase (ADP-forming). enzyme. This enzyme is also known as succinate thiokinase. succinyl-CoA synthetase (ADP-forming).
+314	A diacylglycerol kinase (ATP). enzyme. This enzyme is also known as DGK. diglyceride kinase.
+315	A uracil phosphoribosyltransferase. enzyme. This enzyme is also known as UMP diphosphorylase. UMP pyrophosphorylase.
+316	A 2-isopropylmalate synthase. enzyme. This enzyme is also known as 3-carboxy-3-hydroxy-4-methylpentanoate 3-methyl-2-oxobutanoate-lyase (CoA-acetylating). alpha-IPM synthetase. alpha-isopropylmalate synthase. alpha-isopropylmalate synthetase. alpha-isopropylmalic synthetase. isopropylmalate synthase. isopropylmalate synthetase.
+317	A P-type Cu(+) transporter. enzyme. This enzyme is also known as Cu(+)-exporting ATPase.
+318	A urease. enzyme.
+319	A mitogen-activated protein kinase kinase. enzyme. This enzyme is also known as MAP2K. MAP kinase kinase. MAPKK. MEK. MKK.
+320	A thymidine kinase. enzyme.
+321	A non-specific protein-tyrosine kinase. enzyme. This enzyme is also known as cytoplasmic protein tyrosine kinase.
+322	A corrinoid adenosyltransferase. enzyme. This enzyme is also known as aquacob(I)alamin adenosyltransferase. aquocob(I)alamin vitamin B12s adenosyltransferase. ATP:cob(I)alamin Cobeta-adenosyltransferase. ATP:corrinoid adenosyltransferase. cob(I)alamin adenosyltransferase. cob(I)yrinic acid a,c-diamide adenosyltransferase.
+323	A purine-nucleoside phosphorylase. enzyme. This enzyme is also known as inosine phosphorylase. PNPase.
+324	A aminomethyltransferase. enzyme. This enzyme is also known as glycine-cleavage system T-protein. glycine synthase. tetrahydrofolate aminomethyltransferase.
+325	A peptidylprolyl isomerase. enzyme. This enzyme is also known as cyclophilin. peptidylprolyl cis-trans isomerase. peptidyl-prolyl cis-trans isomerase. PPIase. rotamase.
+326	A dephospho-CoA kinase. enzyme. This enzyme is also known as dephosphocoenzyme A kinase.
+327	A branched-chain-amino-acid transaminase. enzyme. This enzyme is also known as branched-chain amino acid aminotransferase. transaminase B.
+328	A pyridoxal 5'-phosphate synthase. enzyme. This enzyme is also known as PMP oxidase. pyridoxamine 5'-phosphate oxidase. pyridoxamine phosphate oxidase. pyridoxamine-phosphate oxidase. pyridoxine (pyridoxamine) 5'-phosphate oxidase. pyridoxine (pyridoxamine)phosphate oxidase.
+329	A spermidine synthase. enzyme. This enzyme is also known as aminopropyltransferase. putrescine aminopropyltransferase.
+330	A chorismate mutase. enzyme. This enzyme is also known as hydroxyphenylpyruvate synthase.
+331	A ferredoxin--NADP(+) reductase. enzyme.
+332	A NAD(+) ADP-ribosyltransferase. enzyme. This enzyme is also known as ADP-ribosyltransferase (polymerizing). poly(adenosine diphosphate ribose) polymerase. poly(ADP-ribose)polymerase. poly(ADP-ribose) synthetase.
+333	A protein-glutamine gamma-glutamyltransferase. enzyme. This enzyme is also known as fibrinoligase. glutaminylpeptide gamma-glutamyltransferase. polyamine transglutaminase. TGase. transglutaminase.
+334	A aminoacyl-tRNA hydrolase. enzyme. This enzyme is also known as peptidyl-tRNA hydrolase.
+335	A complement subcomponent C1s. enzyme. This enzyme is also known as C1s esterase.
+336	A mannosyl-glycoprotein endo-beta-N-acetylglucosaminidase. enzyme. This enzyme is also known as di-N-acetylchitobiosyl beta-N-acetylglucosaminidase. endo-beta-N-acetylglucosaminidase.
+337	A DNA-directed DNA polymerase. enzyme. This enzyme is also known as DNA-dependent DNA polymerase. DNA nucleotidyltransferase (DNA-directed).
+338	A histone deacetylase. enzyme. This enzyme is also known as HDAC.
+339	A 4-alpha-glucanotransferase. enzyme. This enzyme is also known as D-enzyme. dextrin glycosyltransferase. disproportionating enzyme. oligo-1,4-1,4-glucantransferase.
+340	A 2-C-methyl-D-erythritol 2,4-cyclodiphosphate synthase. enzyme. This enzyme is also known as MECDP-synthase.
+341	A 3-hydroxyacyl-[acyl-carrier-protein] dehydratase. enzyme. This enzyme is also known as (3R)-3-hydroxyoctanoyl-[acyl-carrier-protein] hydro-lyase. 3-hydroxyoctanoyl-[acyl-carrier-protein] dehydratase. beta-hydroxyoctanoyl-ACP-dehydrase. beta-hydroxyoctanoyl-acyl carrier protein dehydrase. beta-hydroxyoctanoyl thioester dehydratase. D-3-hydroxyoctanoyl-[acyl carrier protein] dehydratase.
+342	A unspecific monooxygenase. enzyme. This enzyme is also known as aryl-4-monooxygenase. aryl hydrocarbon hydroxylase. cytochrome P450. flavoprotein-linked monooxygenase. microsomal monooxygenase. microsomal P450. xenobiotic monooxygenase.
+343	A catalase. enzyme.
+344	A phosphoserine phosphatase. enzyme.
+345	A beta-fructofuranosidase. enzyme. This enzyme is also known as beta-fructosidase. invertase. saccharase.
+346	A pyridoxal kinase. enzyme. This enzyme is also known as pyridoxamine kinase. pyridoxine kinase. vitamin B(6) kinase. vitamin B6 kinase.
+347	A pantoate--beta-alanine ligase (AMP-forming). enzyme. This enzyme is also known as pantoate-activating enzyme. pantoic-activating enzyme. pantothenate synthetase.
+348	A Xaa-Pro dipeptidase. enzyme. This enzyme is also known as gamma-peptidase. imidodipeptidase. peptidase D. prolidase. proline dipeptidase. X-Pro dipeptidase.
+349	A UDP-glucose 4-epimerase. enzyme. This enzyme is also known as galactowaldenase. UDP-galactose 4-epimerase. uridine diphosphate galactose 4-epimerase. uridine diphospho-galactose-4-epimerase.
+350	A thrombin. enzyme. This enzyme is also known as fibrinogenase.
+351	A lysozyme. enzyme. This enzyme is also known as muramidase.
+352	A pyruvate kinase. enzyme. This enzyme is also known as phosphoenolpyruvate kinase. phosphoenol transphosphorylase.
+353	A RNA helicase. enzyme.
+354	A thiol oxidase. enzyme. This enzyme is also known as sulfhydryl oxidase.
+355	A 4-hydroxy-tetrahydrodipicolinate reductase. enzyme. This enzyme is also known as dihydrodipicolinate reductase.
+356	A alkaline phosphatase. enzyme. This enzyme is also known as alkaline phosphomonoesterase. glycerophosphatase. phosphomonoesterase.
+357	A non-specific serine/threonine protein kinase. enzyme. This enzyme is also known as protein phosphokinase. protein serine kinase. protein-serine kinase. protein serine-threonine kinase. serine/threonine protein kinase. serine(threonine) protein kinase. serine kinase. serine protein kinase. serine-specific protein kinase. threonine-specific protein kinase.
+358	A 5'-nucleotidase. enzyme.
+359	A protein acetyllysine N-acetyltransferase. enzyme. This enzyme is also known as NAD(+)-dependent protein deacetylase. protein lysine deacetylase.
+360	A site-specific DNA-methyltransferase (adenine-specific). enzyme. This enzyme is also known as modification methylase. N-6 adenine-specific DNA methylase. restriction-modification system.
+361	A hypoxanthine phosphoribosyltransferase. enzyme. This enzyme is also known as guanine phosphoribosyltransferase. HGPRTase. hypoxanthine-guanine phosphoribosyltransferase. IMP diphosphorylase. IMP pyrophosphorylase. transphosphoribosidase.
+362	A nucleotide diphosphatase. enzyme. This enzyme is also known as dinucleotide nucleotidohydrolase. nucleoside-triphosphate diphosphatase. nucleotide pyrophosphatase.
+363	A lipoate--protein ligase. enzyme. This enzyme is also known as lipoate protein ligase. lipoate-protein ligase A. LPL.
+364	A ornithine carbamoyltransferase. enzyme. This enzyme is also known as citrulline phosphorylase. ornithine transcarbamylase. OTC. OTCase.
+365	A peptide deformylase. enzyme. This enzyme is also known as PDF. polypeptide deformylase.
+366	A Deleted entry. enzyme.
+367	A coagulation factor Xa. enzyme. This enzyme is also known as prothrombase. prothrombinase. Stuart factor. thrombokinase.
+368	A exodeoxyribonuclease III. enzyme. This enzyme is also known as E.coli exonuclease III. exonuclease III.
+369	A Transferred entry: 1.11.1.24, 1.11.1.25, 1.11.1.26, 1.11.1.27, 1.11.1.28and 1.11.1.29. enzyme.
+370	A glutathione peroxidase. enzyme.
+371	A glucan endo-1,3-beta-D-glucosidase. enzyme. This enzyme is also known as (1->3)-beta-glucan endohydrolase. endo-1,3-beta-glucanase. laminarinase.
+372	A dUTP diphosphatase. enzyme. This enzyme is also known as deoxyuridine-triphosphatase. desoxyuridine 5'-triphosphatase. desoxyuridine 5'-triphosphate nucleotidohydrolase. dUTPase. dUTP pyrophosphatase.
+373	A [acyl-carrier-protein] S-malonyltransferase. enzyme. This enzyme is also known as acyl carrier protein malonyltransferase. malonyl-CoA/dephospho-CoA acyltransferase. malonyl-CoA-acyl carrier protein transacylase. malonyl coenzyme A-acyl carrier protein transacylase. malonyl transacylase. malonyl transferase. MCAT.
+374	A serine--tRNA ligase. enzyme. This enzyme is also known as serine translase. SerRS. seryl-transfer ribonucleate synthetase. seryl-transfer ribonucleic acid synthetase. seryl-transfer RNA synthetase. seryl-tRNA synthetase.
+375	A Transferred entry: 2.7.1.191, 2.7.1.192, 2.7.1.193, 2.7.1.194, 2.7.1.195,2.7.1.196, 2.7.1.197, 2.7.1.198, 2.7.1.199, 2.7.1.200, 2.7.1.201,2.7.1.202, 2.7.1.203, 2.7.1.204, 2.7.1.205, 2.7.1.206, 2.7.1.207 and2.7.1.208. enzyme.
+376	A acid phosphatase. enzyme. This enzyme is also known as acid phosphomonoesterase. glycerophosphatase. phosphomonoesterase.
+377	A dihydrolipoyllysine-residue acetyltransferase. enzyme. This enzyme is also known as acetyl-CoA:dihydrolipoamide S-acetyltransferase. dihydrolipoamide S-acetyltransferase. dihydrolipoate acetyltransferase. dihydrolipoic transacetylase. dihydrolipoyl acetyltransferase. lipoate acetyltransferase. lipoate transacetylase. lipoic acetyltransferase. lipoic acid acetyltransferase. lipoic transacetylase. lipoylacetyltransferase. thioltransacetylase A. transacetylase X.
+378	A 3',5'-cyclic-GMP phosphodiesterase. enzyme.
+379	A bacterial non-heme ferritin. enzyme.
+380	A aldehyde dehydrogenase (NAD(+)). enzyme.
+381	A cellulose 1,4-beta-cellobiosidase (non-reducing end). enzyme. This enzyme is also known as 1,4-beta-cellobiohydrolase. 4-beta-D-glucan cellobiohydrolase (non-reducing end). avicelase. exo-1,4-beta-D-glucanase. exocellobiohydrolase. exoglucanase.
+382	A asparaginase. enzyme. This enzyme is also known as L-asparaginase. L-asparagine amidohydrolase.
+383	A polyribonucleotide nucleotidyltransferase. enzyme. This enzyme is also known as polynucleotide phosphorylase.

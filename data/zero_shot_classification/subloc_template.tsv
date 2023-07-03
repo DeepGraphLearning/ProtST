@@ -1,0 +1,11 @@
+id	name	description
+0	SUBCELLULAR LOCATION: Cell membrane.	SUBCELLULAR LOCATION: Apical; apicolateral; basal; basolateral; lateral; cell membrane; cell projection.
+1	SUBCELLULAR LOCATION: Cytoplasm.	SUBCELLULAR LOCATION: Cytoplasm (cytosol and cytoskeleton).
+2	SUBCELLULAR LOCATION: Endoplasmic reticulum (ER).	SUBCELLULAR LOCATION: ER membrane and lumen; microsome; rough ER; smooth ER; Sarcoplasmic reticulum.
+3	SUBCELLULAR LOCATION: Golgi apparatus.	SUBCELLULAR LOCATION: Golgi apparatus membrane and lumen.
+4	SUBCELLULAR LOCATION: Lysosome/Vacuole.	SUBCELLULAR LOCATION: Contractile; lytic and protein storage vacuole; vacuole lumen and membrane; lysosome lumen and membrane.
+5	SUBCELLULAR LOCATION: Mitochondrion.	SUBCELLULAR LOCATION: Envelope; inner and outer membrane; matrix; intermembrane space.
+6	SUBCELLULAR LOCATION: Nucleus.	SUBCELLULAR LOCATION: Envelope; inner and outer membrane; matrix; lamina; chromosome; nucleus speckle.
+7	SUBCELLULAR LOCATION: Peroxisome. 	SUBCELLULAR LOCATION: Peroxisome matrix and membrane.
+8	SUBCELLULAR LOCATION: Plastid.	SUBCELLULAR LOCATION: Plastid membrane; stroma and thylakoid.
+9	SUBCELLULAR LOCATION: Extracellular. 	SUBCELLULAR LOCATION: Extracellular.

@@ -1,0 +1,11 @@
+id	name	description
+0	Cell membrane	"Apical, apicolateral, basal, basolateral, lateral, cell membrane, cell projection"
+1	Cytoplasm	Cytoplasm (cytosol and cytoskeleton)
+2	Endoplasmic reticulum (ER)	"ER membrane and lumen, microsome, rough ER, smooth ER, Sarcoplasmic reticulum"
+3	Golgi apparatus	Golgi apparatus membrane and lumen
+4	Lysosome/Vacuole	"Contractile, lytic and protein storage vacuole, vacuole lumen and membrane, lysosome lumen and membrane"
+5	Mitochondrion	"Envelope, inner and outer membrane, matrix, intermembrane space"
+6	Nucleus	"Envelope, inner and outer membrane, matrix, lamina, chromosome, nucleus speckle"
+7	Peroxisome 	Peroxisome matrix and membrane
+8	Plastid	"Plastid membrane, stroma and thylakoid"
+9	Extracellular 	Extracellular

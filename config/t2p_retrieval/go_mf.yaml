@@ -1,0 +1,35 @@
+checkpoint: {{ checkpoint }}
+
+prompt:
+  path: ./data/zero_shot_retrieval/t2p_prompt_go_mf.txt
+  max_length: 128
+
+dataset:
+  class: GeneOntology
+  path: ~/scratch/protein-datasets/
+  branch: MF
+  test_cutoff: 0.95
+  atom_feature: null
+  bond_feature: null
+  transform:
+    class: Compose
+    transforms:
+      - class: ProteinView
+        view: "residue"
+
+batch_size: 32
+
+protein_model:
+  class: PretrainESM
+  path: ~/scratch/esm-model-weights/
+  model: ESM-1b
+  mask_modeling: False
+  output_dim: 512
+  readout: mean
+  use_proj: True
+
+text_model:
+  class: PubMedBERT
+  model: PubMedBERT-abs
+  output_dim: 512
+  readout: mean

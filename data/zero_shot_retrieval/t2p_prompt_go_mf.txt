@@ -1,0 +1,5 @@
+FUNCTION: Binding to ATP, adenosine 5'-triphosphate, a universally important coenzyme and enzyme regulator.
+FUNCTION: Binding to a heme, a compound composed of iron complexed in a porphyrin (tetrapyrrole) ring.
+FUNCTION: Binding to GTP, guanosine triphosphate.
+FUNCTION: Binding to pyridoxal 5' phosphate, the biologically active form of vitamin B6.
+FUNCTION: Binding to the oxidized form, NAD, of nicotinamide adenine dinucleotide, a coenzyme involved in many redox and biosynthetic reactions.

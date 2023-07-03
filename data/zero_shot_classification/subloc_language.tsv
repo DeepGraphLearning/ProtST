@@ -1,0 +1,11 @@
+id	name	description
+0	A protein locating at Cell membrane	A protein locating at Apical or apicolateral or basal or basolateral or lateral or cell membrane or cell projection
+1	A protein locating at Cytoplasm	A protein locating at Cytoplasm (cytosol and cytoskeleton)
+2	A protein locating at Endoplasmic reticulum (ER)	A protein locating at ER membrane and lumen or microsome or rough ER or smooth ER or Sarcoplasmic reticulum
+3	A protein locating at Golgi apparatus	A protein locating at Golgi apparatus membrane or lumen
+4	A protein locating at Lysosome/Vacuole	A protein locating at Contractile or lytic and protein storage vacuole or vacuole lumen and membrane or lysosome lumen and membrane
+5	A protein locating at Mitochondrion	A protein locating at Envelope or inner and outer membrane or matrix or intermembrane space
+6	A protein locating at Nucleus	A protein locating at Envelope or inner and outer membrane or matrix or lamina or chromosome or nucleus speckle
+7	A protein locating at Peroxisome 	A protein locating at Peroxisome matrix and membrane
+8	A protein locating at Plastid	A protein locating at Plastid membrane or stroma and thylakoid
+9	A protein locating at Extracellular 	A protein locating at Extracellular

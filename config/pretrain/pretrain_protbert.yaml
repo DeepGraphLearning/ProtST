@@ -1,0 +1,58 @@
+output_dir: ~/scratch/protst_output/
+
+dataset:
+  class: UniProtSeqText
+  path: ~/scratch/protein-datasets/
+  seq_lazy: True
+  atom_feature: null
+  bond_feature: null
+  transform:
+    class: Compose
+    transforms:
+      - class: TruncateProtein
+        max_length: 450
+        random: True
+      - class: ProteinView
+        view: "residue"
+
+fix_text_model: True
+
+lr_ratio: 0.1  # add this line when fine-tuning the protein encoder
+
+task:
+  class: ProtSTMMP
+  protein_model:
+    class: PretrainProtBert
+    path: ~/scratch/protbert-model-weights/
+    mask_modeling: True
+    output_dim: 512
+    readout: pooler
+  text_model:
+    class: PubMedBERT
+    model: {{ text_model }} # PubMedBERT-abs / PubMedBERT-full
+    output_dim: 512 # NOTE: same as the output_dim of protein_model
+    readout: mean
+  fusion_model:
+    class: CrossAttention
+    hidden_dim: 512
+    num_layers: 1
+    num_heads: 8
+    batch_norm: True
+  protein2text: True
+  text2protein: True
+  mlm_weight: 1.0
+  mmp_weight: 1.0
+  mask_rate: 0.15
+  num_mlp_layer: 2
+  global_contrast: True
+
+optimizer:
+  class: Adam
+  lr: 1.0e-5
+
+engine:
+  gpus: [0, 1, 2, 3]
+  batch_size: 3
+
+train: 
+  num_epoch: 20

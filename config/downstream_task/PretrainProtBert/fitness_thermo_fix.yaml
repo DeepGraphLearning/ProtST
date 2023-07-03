@@ -1,0 +1,45 @@
+output_dir: ~/scratch/protst_output/
+checkpoint: {{ checkpoint }}
+
+dataset:
+  class: td_datasets.Thermostability
+  path: ~/scratch/protein-datasets/
+  atom_feature: null
+  bond_feature: null
+  transform:
+    class: Compose
+    transforms:
+      - class: TruncateProtein
+        max_length: 1022
+        random: False
+      - class: ProteinView
+        view: "residue"
+
+task:
+  class: PropertyPrediction
+  model:
+    class: PretrainProtBert
+    path: ~/scratch/protbert-model-weights/
+    mask_modeling: False
+    output_dim: 512
+    readout: mean
+    use_proj: False
+  criterion: mse
+  metric: ["mae", "rmse", "spearmanr"]
+  normalization: False
+  num_mlp_layer: 2
+
+eval_metric: spearmanr
+
+optimizer:
+  class: Adam
+  lr: 5.0e-5
+
+fix_encoder: True
+
+engine:
+  gpus: [0, 1, 2, 3]
+  batch_size: 16
+
+train:
+  num_epoch: 100

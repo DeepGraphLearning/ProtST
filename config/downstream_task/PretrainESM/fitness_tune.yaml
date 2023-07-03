@@ -1,0 +1,43 @@
+output_dir: ~/scratch/protst_output/
+checkpoint: {{ checkpoint }}
+
+dataset:
+  class: {{ dataset }} # BetaLactamase / Fluorescence / Stability / td_datasets.AAV / td_datasets.Thermostability
+  path: ~/scratch/protein-datasets/
+  atom_feature: null
+  bond_feature: null
+  transform:
+    class: Compose
+    transforms:
+      - class: ProteinView
+        view: "residue"
+
+task:
+  class: PropertyPrediction
+  model:
+    class: PretrainESM
+    path: ~/scratch/esm-model-weights/
+    model: ESM-1b
+    mask_modeling: False
+    output_dim: 512
+    readout: mean
+    use_proj: False
+  criterion: mse
+  metric: ["mae", "rmse", "spearmanr"]
+  normalization: False
+  num_mlp_layer: 2
+
+eval_metric: spearmanr
+
+optimizer:
+  class: Adam
+  lr: 2.0e-4
+
+lr_ratio: 0.1
+
+engine:
+  gpus: [0, 1, 2, 3]
+  batch_size: {{ batch_size }} # td_datasets.Thermostability: 1; others: 6
+
+train:
+  num_epoch: 100

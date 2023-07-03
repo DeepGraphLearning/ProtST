@@ -1,0 +1,34 @@
+checkpoint: {{ checkpoint }}
+
+label:
+  path: {{ prompt_label }}
+  field: {{ field }} # "['name']" / "['description']"
+  max_length: 128
+
+dataset:
+  class: {{ dataset }} # SubcellularLocalization / Reaction
+  path: ~/scratch/protein-datasets/
+  atom_feature: null
+  bond_feature: null
+  transform:
+    class: Compose
+    transforms:
+      - class: ProteinView
+        view: "residue"
+
+batch_size: 32
+
+protein_model:
+  class: PretrainESM
+  path: ~/scratch/esm-model-weights/
+  model: ESM-1b
+  mask_modeling: False
+  output_dim: 512
+  readout: mean
+  use_proj: True
+
+text_model:
+  class: PubMedBERT
+  model: PubMedBERT-abs
+  output_dim: 512
+  readout: mean
