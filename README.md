@@ -163,6 +163,10 @@ We illustrate the capability of ProtST-ESM-1b on retrieving functional proteins 
 python ./script/run_t2p_retrieval.py --config ./config/t2p_retrieval/go_mf.yaml --checkpoint $PRETRAIN_CHECKPOINT
 ```
 
+# License 
+
+This codebase is released under the Apache License 2.0 as in the [LICENSE](LICENSE) file.
+
 # Citation
 
 If you find this project helpful, please cite our paper:
