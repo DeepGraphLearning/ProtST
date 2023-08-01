@@ -20,9 +20,11 @@ class UniProtSeqText(data.ProteinDataset):
 
     urls = {
         "swiss_prot": "https://miladeepgraphlearningproteindata.s3.us-east-2.amazonaws.com/uniprotdata/uniprot_sprot_filtered.tsv",
+        "trembl": "https://miladeepgraphlearningproteindata.s3.us-east-2.amazonaws.com/uniprotdata/uniprot_sprot_tremblrep_2.5M.tsv"
     }
     md5s = {
         "swiss_prot": "3dedbad606e014a6bbd802245aae54de",
+        "trembl": "b3c5f34a32e570b97658aef998812d00"
     }
     seq_field = "Sequence"
     text_fields = ["ProteinName", "Function", "SubcellularLocation", "Similarity"]
