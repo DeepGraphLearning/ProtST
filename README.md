@@ -108,7 +108,7 @@ We demonstrate on zero-shot subcellular localization prediction and zero-shot re
 ```
 # Subcellular Localization Prediction
 
-python ./script/run_zero_shot.py --config ./config/zero_shot/PretrainESM/zero_shot.yaml --checkpoint $PRETRAIN_CHECKPOINT --prompt_label ./data/zero_shot_classification/subloc_name.tsv --dataset SubcellularLocalization --field "['name']"
+python ./script/run_zero_shot.py --config ./config/zero_shot/PretrainESM/zero_shot.yaml --checkpoint $PRETRAIN_CHECKPOINT --prompt_label ./data/zero_shot_classification/subloc_template.tsv --dataset SubcellularLocalization --field "['name']"
 
 # Reaction Classification
 
